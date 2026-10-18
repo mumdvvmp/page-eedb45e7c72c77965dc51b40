@@ -1,0 +1,74 @@
+{
+  "version": 2,
+  "template_version": "3a528c553883e59d7cfa",
+  "page_size": 20,
+  "site_id": "871fe47471eea087e9a570bf",
+  "owner": "mumdvvmp",
+  "repo": "page-eedb45e7c72c77965dc51b40",
+  "title": "野兔",
+  "mode": "repo",
+  "articles": [
+    {
+      "id": "eedb45e7c72c77965dc51b40",
+      "a": "野兔",
+      "b": "",
+      "entity": "野兔",
+      "brand": "野兔",
+      "separator": "",
+      "path": "index.html",
+      "hash": "8aa9d4c595477fdf7ce6d59e665590c42b7f750939fb0bc247a5451063808551",
+      "content": {
+        "keyword1": "野兔",
+        "keyword2": "",
+        "primary_entity": "野兔",
+        "plans": [],
+        "clients": [],
+        "_offline": false,
+        "content": {
+          "AI_HERO_INTRO": "野兔。窄栏开篇。短句说明会员阶梯、阅读路径与常见问题。不堆口号。",
+          "AI_DESCRIPTION": "野兔。窄栏开篇。短句说明会员阶梯、阅读路径与常见问题。不堆口号。"
+        },
+        "_brand_page": {
+          "version": 3,
+          "body": "<style>\n*{box-sizing:border-box;margin:0;padding:0}\nhtml,body{background:#0b1c33;color:#e8eef6;font-family:Georgia,\"Songti SC\",\"Noto Serif SC\",serif;line-height:1.65}\nbody{min-height:100vh}\na{color:#d4a017;text-decoration:none}\na:hover{text-decoration:underline}\nmain{max-width:1120px;margin:0 auto;padding:28px 20px 80px}\n.hero{min-height:88vh;display:flex;align-items:flex-start;justify-content:flex-start;padding-top:8vh}\n.hero-col{max-width:28rem;width:100%}\nh1{font-size:clamp(2.4rem,7vw,4.2rem);letter-spacing:.08em;font-weight:700;color:#f4f7fb;line-height:1.1;margin:0 0 18px}\n.lead{font-size:1.05rem;color:#c5d0de;margin-bottom:22px}\n.lead p{margin-bottom:10px}\n.anchors{display:flex;flex-wrap:wrap;gap:10px 16px;font-size:.92rem;letter-spacing:.04em}\n.anchors a{border-bottom:1px solid #d4a017;padding-bottom:2px;color:#f0c14b}\nsection{margin:64px 0}\nh2{font-size:1.35rem;color:#f0c14b;margin-bottom:18px;font-weight:600}\nh3{font-size:1.05rem;color:#f4f7fb;margin:16px 0 8px}\np,li{font-size:.98rem;color:#d5deea}\n.soft{background:#12263f;border-radius:22px;box-shadow:0 14px 40px rgba(0,0,0,.28);padding:22px 22px 20px}\n.steps .soft{margin-bottom:16px}\n.steps ol{padding-left:1.2em}\n.steps li{margin:6px 0}\n.plans{display:flex;flex-direction:column;gap:18px;align-items:flex-start}\n.plan{width:100%;max-width:36rem}\n.plan.p2{max-width:40rem;margin-left:6%}\n.plan.p3{max-width:44rem;margin-left:12%}\n.badge{display:inline-block;font-size:.75rem;color:#0b1c33;background:#f0c14b;border-radius:999px;padding:2px 10px;margin-left:8px;letter-spacing:.04em}\n.price{color:#f0c14b;font-size:1.2rem;margin:8px 0}\n.year{color:#9aabc0;font-size:.9rem;margin-bottom:10px}\n.plan ul{padding-left:1.15em}\n.plan li{margin:4px 0}\n.faq-group{margin-bottom:22px}\n.faq-group .soft{margin-bottom:12px}\n.clients .soft p{margin-bottom:8px}\nfooter{margin-top:48px;color:#8ea0b5;font-size:.85rem}\n@media (max-width:700px){\n.hero{min-height:auto;padding-top:24px}\n.plan.p2,.plan.p3{margin-left:0;max-width:100%}\n}\n</style><main>\n<section class=\"hero\" id=\"top\">\n<div class=\"hero-col\">\n<h1>野兔</h1>\n<div class=\"lead\">\n<p>左栏收束。右侧留白。</p>\n<p>短句。少修饰。</p>\n<p>会员三档，按用量递进。</p>\n<p>事实未另附。此处不写节点、速度或官方身份。</p>\n</div>\n<nav class=\"anchors\">\n<a href=\"#use\">使用</a>\n<a href=\"#plans\">套餐</a>\n<a href=\"#clients\">客户端</a>\n<a href=\"#faq\">问题</a>\n</nav>\n</div>\n</section>\n\n<section id=\"use\">\n<h2>使用说明</h2>\n<div class=\"steps\">\n<article class=\"soft\">\n<h3>一、选档</h3>\n<ol>\n<li>对照流量与设备数。</li>\n<li>按月或按年结算，以页面标价为准。</li>\n<li>团队档面向多人共用。</li>\n</ol>\n</article>\n<article class=\"soft\">\n<h3>二、开通后</h3>\n<ol>\n<li>记下账号与到期日。</li>\n<li>在自有设备登录，勿共享密码截图。</li>\n<li>流量用尽即暂停，待下个周期或升级。</li>\n</ol>\n</article>\n<article class=\"soft\">\n<h3>三、日常</h3>\n<ol>\n<li>先查本机网络，再查会员状态。</li>\n<li>工单仅旗舰与团队档写明优先处理，其余按队列。</li>\n<li>规则变更以站内最新说明为准。</li>\n</ol>\n</article>\n</div>\n</section>\n\n<section id=\"plans\">\n<h2>套餐阶梯</h2>\n<div class=\"plans\">\n<article class=\"soft plan p1\">\n<h3>基础版</h3>\n<p class=\"price\">¥15/月</p>\n<p class=\"year\">按年付仅需 ¥150/年</p>\n<ul>\n<li>每月流量额度 100GB</li>\n<li>同时在线 3 台设备</li>\n<li>基础媒体访问策略（以届时可用范围为限）</li>\n<li>常规线路资源池</li>\n</ul>\n</article>\n<article class=\"soft plan p2\">\n<h3>旗舰版<span class=\"badge\">推荐</span></h3>\n<p class=\"price\">¥35/月</p>\n<p class=\"year\">按年付仅需 ¥350/年</p>\n<ul>\n<li>每月流量额度 300GB</li>\n<li>同时在线 5 台设备</li>\n<li>更广的媒体访问策略（以届时可用范围为限）</li>\n<li>游戏向线路优化说明，不含未提供的实测数据</li>\n<li>工单优先处理（7×24 队列）</li>\n</ul>\n</article>\n<article class=\"soft plan p3\">\n<h3>团队版</h3>\n<p class=\"price\">¥85/月</p>\n<p class=\"year\">按年付仅需 ¥850/年</p>\n<ul>\n<li>每月流量额度 1000GB</li>\n<li>同时在线 20 台设备</li>\n<li>高带宽资源单独编组（名称以开通页为准）</li>\n<li>可申请路由定制沟通</li>\n<li>对口客户经理对接</li>\n</ul>\n</article>\n</div>\n</section>\n\n<section id=\"clients\">\n<h2>客户端</h2>\n<div class=\"clients\">\n<article class=\"soft\">\n<p>未提供经核实的安装包地址。</p>\n<p>请使用你已持有的通用客户端，或等待站内公布链接。</p>\n<p>下载入口暂缺，不放置伪造地址。</p>\n<p>相关入口：<a href=\"#\">#</a></p>\n</article>\n</div>\n</section>\n\n<section id=\"faq\">\n<h2>常见问题</h2>\n<div class=\"faq-group\">\n<h3>账户</h3>\n<article class=\"soft\">\n<p><strong>问：如何改绑定设备？</strong></p>\n<p>答：在已登录会话里移除旧设备，再登录新设备。超额会被拒绝。</p>\n</article>\n<article class=\"soft\">\n<p><strong>问：年付中途能否改档？</strong></p>\n<p>答：可申请升级补差。降级在当前周期结束后生效。未列出退款条款，故不承诺退款。</p>\n</article>\n</div>\n<div class=\"faq-group\">\n<h3>用量</h3>\n<article class=\"soft\">\n<p><strong>问：100GB 如何计算？</strong></p>\n<p>答：上下行合计。周期重置。超额停用至下周期。</p>\n</article>\n<article class=\"soft\">\n<p><strong>问：团队版是否共用一个池？</strong></p>\n<p>答：是。二十台设备共享同一流量池。</p>\n</article>\n</div>\n<div class=\"faq-group\">\n<h3>支持</h3>\n<article class=\"soft\">\n<p><strong>问：基础版如何报障？</strong></p>\n<p>答：普通队列。响应时长不作承诺。</p>\n</article>\n<article class=\"soft\">\n<p><strong>问：没有客户端怎么办？</strong></p>\n<p>答：使用自备工具。官方包未公布前，勿从不明来源获取。</p>\n</article>\n</div>\n</section>\n<footer>野兔 · 静态说明页</footer>\n</main>",
+          "hash": "14360b7863f7b0c6d797162f9faba820e7b2f14bcba976af8ac2012a9663daf3",
+          "seo": {
+            "title": "野兔 — 窄栏笔记与会员阶梯",
+            "keywords": "野兔,会员,基础版,旗舰版,团队版,使用说明",
+            "description": "野兔。窄栏开篇。短句说明会员阶梯、阅读路径与常见问题。不堆口号。"
+          },
+          "provider": "grok",
+          "model": "grok-4-6",
+          "design": {
+            "no": "6302",
+            "hero": "7 窄栏居左配大面积留白",
+            "palette": "3 深海蓝配琥珀",
+            "nav": "3 首屏内嵌锚点标签",
+            "card": "3 大圆角软阴影",
+            "plans_view": "3 阶梯式递进排列",
+            "faq_view": "3 按主题分组",
+            "tone": "3 简洁利落的短句",
+            "order": "首屏优先，其余区块由 AI 根据已选构图和信息关系安排"
+          }
+        }
+      }
+    }
+  ],
+  "domain": {
+    "apex": "cfhxz.cn",
+    "host": "p-53487ea44d.cfhxz.cn",
+    "kind": "subdomain",
+    "candidate_roots_ref": "subdomain_roots:91e741dce7c147d9ce91af6f84daa678dae755807d903b04925261e0a3a8d804",
+    "prefix_mode": "auto"
+  },
+  "friendlinks": [],
+  "file_hashes": {
+    "index.html": "08e3951a5d2fdd3ec50f7533645560b857ad1a4c2a89f7bffac040654c32e9cf",
+    "sitemap.xml": "238edb8912d92bc69bce8342fb1c8d1d29dae903d22045de095286eaac58dce2",
+    ".nojekyll": "12ae32cb1ec02d01eda3581b127c1fee3b0dc53572ed6baf239721a03d82e126",
+    "CNAME": "b2684dfe7f4b0dfd118799134ab3920dcaf3ae0ebd06f8ee8da3ea11328ff315",
+    "robots.txt": "bd54aa9ab8c91e667b6ccc65811f07ce10d9fc24efcf3b2e12ea8d86b0f5969a",
+    "af994676e0c9072acbe1f0b9b9314ad9.txt": "035002ff3190acd552b846b505042c1f22bf8cc1caf0c6b291bfc6f3282a52ac"
+  },
+  "revision": "5afb97606bf2fd50d1735851ad7dc91cda028ca085ec3d923c426bd334b32951"
+}
